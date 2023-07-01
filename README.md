@@ -19,7 +19,7 @@ SQL Query Analyzer is a simple Windows application that analyzes SQL queries and
 
 ### Installation
 
-1. Download the latest setup file from the [Setup](https://github.com/kumarbijay/SqlQueryAnalyzer/Setup) page.
+1. Download the latest setup file from the [Setup](https://github.com/kumarbijay/SqlQueryAnalyzer/tree/main/Setup) page.
 2. Install the tool to a desired location on your computer.
 
 ### Usage
