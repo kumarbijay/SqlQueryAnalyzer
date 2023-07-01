@@ -1,0 +1,17 @@
+C:\Users\BIJKUMARSAHOO\source\repos\SqlQueryAnalyzer\SqlQueryAnalyzer\bin\Release\net6.0-windows\SqlQueryAnalyzer.exe
+C:\Users\BIJKUMARSAHOO\source\repos\SqlQueryAnalyzer\SqlQueryAnalyzer\bin\Release\net6.0-windows\SqlQueryAnalyzer.deps.json
+C:\Users\BIJKUMARSAHOO\source\repos\SqlQueryAnalyzer\SqlQueryAnalyzer\bin\Release\net6.0-windows\SqlQueryAnalyzer.runtimeconfig.json
+C:\Users\BIJKUMARSAHOO\source\repos\SqlQueryAnalyzer\SqlQueryAnalyzer\bin\Release\net6.0-windows\SqlQueryAnalyzer.dll
+C:\Users\BIJKUMARSAHOO\source\repos\SqlQueryAnalyzer\SqlQueryAnalyzer\bin\Release\net6.0-windows\SqlQueryAnalyzer.pdb
+C:\Users\BIJKUMARSAHOO\source\repos\SqlQueryAnalyzer\SqlQueryAnalyzer\obj\Release\net6.0-windows\SqlQueryAnalyzer.csproj.AssemblyReference.cache
+C:\Users\BIJKUMARSAHOO\source\repos\SqlQueryAnalyzer\SqlQueryAnalyzer\obj\Release\net6.0-windows\SqlQueryAnalyzer.MainForm.resources
+C:\Users\BIJKUMARSAHOO\source\repos\SqlQueryAnalyzer\SqlQueryAnalyzer\obj\Release\net6.0-windows\SqlQueryAnalyzer.csproj.GenerateResource.cache
+C:\Users\BIJKUMARSAHOO\source\repos\SqlQueryAnalyzer\SqlQueryAnalyzer\obj\Release\net6.0-windows\SqlQueryAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BIJKUMARSAHOO\source\repos\SqlQueryAnalyzer\SqlQueryAnalyzer\obj\Release\net6.0-windows\SqlQueryAnalyzer.AssemblyInfoInputs.cache
+C:\Users\BIJKUMARSAHOO\source\repos\SqlQueryAnalyzer\SqlQueryAnalyzer\obj\Release\net6.0-windows\SqlQueryAnalyzer.AssemblyInfo.cs
+C:\Users\BIJKUMARSAHOO\source\repos\SqlQueryAnalyzer\SqlQueryAnalyzer\obj\Release\net6.0-windows\SqlQueryAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\BIJKUMARSAHOO\source\repos\SqlQueryAnalyzer\SqlQueryAnalyzer\obj\Release\net6.0-windows\SqlQueryAnalyzer.dll
+C:\Users\BIJKUMARSAHOO\source\repos\SqlQueryAnalyzer\SqlQueryAnalyzer\obj\Release\net6.0-windows\refint\SqlQueryAnalyzer.dll
+C:\Users\BIJKUMARSAHOO\source\repos\SqlQueryAnalyzer\SqlQueryAnalyzer\obj\Release\net6.0-windows\SqlQueryAnalyzer.pdb
+C:\Users\BIJKUMARSAHOO\source\repos\SqlQueryAnalyzer\SqlQueryAnalyzer\obj\Release\net6.0-windows\SqlQueryAnalyzer.genruntimeconfig.cache
+C:\Users\BIJKUMARSAHOO\source\repos\SqlQueryAnalyzer\SqlQueryAnalyzer\obj\Release\net6.0-windows\ref\SqlQueryAnalyzer.dll
