@@ -85,6 +85,7 @@ namespace SqlQueryAnalyzer
             resultTextBox.Height = (int)(Height * 0.80);
 
             analyzeButton.Location = new Point(10, queryTextBox.Bottom + 10);
+            analyzeTempTbl.Location = new Point(analyzeButton.Right + 10, queryTextBox.Bottom + 10);
             copyButton.Location = new Point(resultTextBox.Right - 150, resultTextBox.Bottom + 10);
             label1.Location = new Point(resultTextBox.Left - 110, analyzeButton.Bottom + 2);
         }
