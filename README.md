@@ -1,6 +1,7 @@
 # SQL Query Analyzer
 
 SQL Query Analyzer is a simple Windows application that analyzes SQL queries and adds the necessary NOLOCK hints to improve query performance. It allows you to enter SQL queries, analyze them, and view the modified queries with the added NOLOCK hints. It also provides analysis for the creation and dropping of temp tables.
+To run it, you must have the **Prerequisites**.
 
 ## Features
 
@@ -15,11 +16,11 @@ SQL Query Analyzer is a simple Windows application that analyzes SQL queries and
 ### Prerequisites
 
 - Windows operating system
-- .NET Framework
+- .NET Framework Desktop RunTime 6.0 or Higher [[Download](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.19-windows-x64-installer?cid=getdotnetcore)]
 
 ### Installation
 
-1. Download the latest setup file from the [Setup](https://github.com/kumarbijay/SqlQueryAnalyzer/tree/main/Setup) page.
+1. Download the latest "**SqlQueryAnalyzerSetup.msi**" file from the [Setup](https://github.com/kumarbijay/SqlQueryAnalyzer/tree/main/Setup) page.
 2. Install the tool to a desired location on your computer.
 
 ### Usage
