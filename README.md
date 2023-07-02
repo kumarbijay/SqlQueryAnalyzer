@@ -32,6 +32,8 @@ To run it, you must have the **Prerequisites**.
 4. The modified query with added NOLOCK hints will be displayed in the result text area.
 5. The application will also analyze the creation and dropping of temp tables and highlight them accordingly.
 6. You can copy the modified query to the clipboard by clicking the "Copy Output" button.
+![image](https://github.com/kumarbijay/SqlQueryAnalyzer/assets/47667528/fa0025df-1e45-4095-bcc0-cbef42c22a15)
+
 
 ## Contributing
 
